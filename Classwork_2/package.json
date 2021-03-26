@@ -1,0 +1,13 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app2.js"
+  },
+  "keywords": ["expressApp"],
+  "author": "Muskan",
+  "license": "ISC"
+}
